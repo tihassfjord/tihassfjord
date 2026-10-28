@@ -1,21 +1,11 @@
 # Tor-Ivar Hassfjord
 
-Master's student in applied physics and mathematics at UiT The Arctic University of Norway, graduating December 2026. I work with machine learning and scientific software, mostly in medical imaging. Based in Tromsø.
+I'm a master's student in applied physics and mathematics at UiT The Arctic University of Norway, graduating in December 2026. My thesis, in the ML4PET group, looks at whether partial volume correction of PET images helps deep learning models estimate the arterial input function in mice, so that kinetic modelling can be done without arterial blood sampling. The code is in [pvc-dlif-pipeline](https://github.com/tihassfjord/pvc-dlif-pipeline).
 
-## Current work
+Alongside the thesis I'm developing KAILOGG, machine learning-based intrusion detection and logging for port security (ISPS), with support from a UiT Talent Innovasjon scholarship.
 
-**Master's thesis.** Partial volume correction (PVC) for deep learning-derived input functions (DLIF) in preclinical PET/CT, in the ML4PET group at UiT. Code: [pvc-dlif-pipeline](https://github.com/tihassfjord/pvc-dlif-pipeline).
+I enjoy building tools that are helpful to myself and others, and I'm based in Tromsø.
 
-**KAILOGG.** Machine learning-based intrusion detection and incident logging for port security (ISPS), supported by a UiT Talent Innovasjon scholarship.
+Python · PyTorch · PETPVC · Git · Linux · Docker · Kubernetes · LaTeX
 
-## Background
-
-Coursework in deep learning, machine learning and remote sensing, including Sentinel-1 SAR data. I like building small Python tools that make my own work easier.
-
-## Tools
-
-Python · PyTorch · PETPVC · Git · Linux · Kubernetes · Docker
-
-## Contact
-
-- Email: ti.hassfjord@gmail.com
+📫 ti.hassfjord@gmail.com
